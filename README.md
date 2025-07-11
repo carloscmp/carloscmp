@@ -26,7 +26,7 @@ Atualmente, trabalho e estudo em dois grandes ecossistemas:
 
 ### 🛠️ Tecnologias que Utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,nodejs,ts,mysql,postgres,nextjs,git,github)](https://skillicons.dev)
 
 ---
 
