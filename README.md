@@ -26,7 +26,8 @@ Atualmente, trabalho e estudo em dois grandes ecossistemas:
 
 ### 🛠️ Tecnologias que Utilizo
 
-[![My Skills](https://skill-icons.dev/icons?i=java,spring,nodejs,ts,react,git,github,vscode&theme=dark)](https://skill-icons.dev) [![JavaFX](https://img.shields.io/badge/JavaFX-0A81C2?style=for-the-badge&logo=oracle&logoColor=white)](https://openjfx.io/)
+[![My Skills](https://skill-icons.dev/icons?i=java,git,react,nodejs&theme=dark)](https://skill-icons.dev)
+
 
 ---
 
