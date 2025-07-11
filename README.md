@@ -39,7 +39,7 @@ Atualmente, trabalho e estudo em dois grandes ecossistemas:
 ### 📊 Minhas Estatísticas no GitHub
 
 [![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=carloscmp&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscmp&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscmp&layout=compact&theme=radical&hide_border=true&exclude_repo=FrontEndProjetoSpring)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
